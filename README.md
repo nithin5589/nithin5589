@@ -2,12 +2,14 @@
 
 Welcome to my GitHub profile! I'm a **Mechanical Engineer** and a **PhD student at Texas A&M** specializing in **polymer materials**, **numerical simulations**, and **material characterization**. My research focuses on the **mechanical performance of PLGA over time**.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin5589&label=Profile%20views&color=0e75b6&style=flat" alt="nithin5589" /> </p>
+
 ## 🔬 Research & Interests
-- Finite Element Analysis (FEA) 🏗️
-- Soft materials for bio applications 🧬
-- Computational mechanics 🖥️
-- Hyperelastic material modeling 📈
-- CAD and design engineering 🏎️
+- **Finite Element Analysis (FEA)** 🏗️
+- **Soft materials for bio applications** 🧬
+- **Computational mechanics** 🖥️
+- **Hyperelastic material modeling** 📈
+- **CAD and design engineering** 🏎️
 
 ## 🛠️ Technical Skills
 - **Programming:** Python, MATLAB, FORTRAN
